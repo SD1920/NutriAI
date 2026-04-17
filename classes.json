@@ -1,0 +1,30 @@
+{
+  "classes": [
+    "aloo_gobi",
+    "aloo_matar",
+    "biryani",
+    "burger",
+    "butter_chicken",
+    "chapati",
+    "chicken_curry",
+    "chole",
+    "dal_fry",
+    "dal_makhani",
+    "egg_omelette",
+    "fried_rice",
+    "gulab_jamun",
+    "halwa",
+    "mixed_veg",
+    "naan",
+    "odia_fish_curry",
+    "paneer_dish",
+    "pitha",
+    "pizza",
+    "poha",
+    "rasgulla"
+  ],
+  "num_classes": 22,
+  "input_size": 224,
+  "threshold": 45.0,
+  "model": "convnext_tiny"
+}
