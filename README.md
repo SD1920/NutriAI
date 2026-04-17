@@ -19,7 +19,7 @@ KIIT students photograph their mess (cafeteria) food → the model identifies th
 📸 Photo → ConvNeXt-Tiny → Dal Fry (78.4%) → 131 kcal | 7.8g protein | 18.2g carbs
 ```
 
-The full app (built by a 3-person team) includes a React Native frontend, Node.js auth, and a FastAPI backend with LangChain meal planning and RAG-based nutrition Q&A. My scope was the food classifier and inference API.
+The full app (built by a 4-person team) includes a React Native frontend, Node.js auth, and a FastAPI backend with LangChain meal planning and RAG-based nutrition Q&A. My scope was the food classifier and inference API.
 
 ---
 
