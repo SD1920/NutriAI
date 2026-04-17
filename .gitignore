@@ -1,0 +1,8 @@
+__pycache__/
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.pptx
+*.pdf
+*.ipynb
