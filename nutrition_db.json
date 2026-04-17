@@ -1,0 +1,188 @@
+{
+  "aloo_gobi": {
+    "calories": 95,
+    "protein": 3.2,
+    "carbs": 14.0,
+    "fat": 3.8
+  },
+  "biryani": {
+    "calories": 200,
+    "protein": 9.0,
+    "carbs": 28.0,
+    "fat": 6.0
+  },
+  "burger": {
+    "calories": 295,
+    "protein": 14.0,
+    "carbs": 30.0,
+    "fat": 14.0
+  },
+  "butter_chicken": {
+    "calories": 150,
+    "protein": 12.0,
+    "carbs": 7.0,
+    "fat": 8.0
+  },
+  "chapati": {
+    "calories": 120,
+    "protein": 3.5,
+    "carbs": 22.0,
+    "fat": 2.0
+  },
+  "chicken_curry": {
+    "calories": 180,
+    "protein": 18.0,
+    "carbs": 8.0,
+    "fat": 9.0
+  },
+  "chole": {
+    "calories": 155,
+    "protein": 9.0,
+    "carbs": 22.0,
+    "fat": 4.0
+  },
+  "dal_fry": {
+    "calories": 131,
+    "protein": 7.8,
+    "carbs": 18.2,
+    "fat": 3.4
+  },
+  "dal_makhani": {
+    "calories": 160,
+    "protein": 8.0,
+    "carbs": 20.0,
+    "fat": 5.0
+  },
+  "dosa": {
+    "calories": 133,
+    "protein": 3.7,
+    "carbs": 24.0,
+    "fat": 3.2
+  },
+  "egg_omelette": {
+    "calories": 154,
+    "protein": 11.0,
+    "carbs": 1.0,
+    "fat": 12.0
+  },
+  "fried_rice": {
+    "calories": 185,
+    "protein": 5.0,
+    "carbs": 32.0,
+    "fat": 5.0
+  },
+  "ghuguni": {
+    "calories": 140,
+    "protein": 8.0,
+    "carbs": 20.0,
+    "fat": 3.5
+  },
+  "gulab_jamun": {
+    "calories": 387,
+    "protein": 6.0,
+    "carbs": 60.0,
+    "fat": 14.0
+  },
+  "halwa": {
+    "calories": 320,
+    "protein": 4.0,
+    "carbs": 45.0,
+    "fat": 14.0
+  },
+  "idli": {
+    "calories": 58,
+    "protein": 2.0,
+    "carbs": 11.0,
+    "fat": 0.5
+  },
+  "mixed_veg": {
+    "calories": 80,
+    "protein": 2.5,
+    "carbs": 12.0,
+    "fat": 3.0
+  },
+  "naan": {
+    "calories": 310,
+    "protein": 9.0,
+    "carbs": 55.0,
+    "fat": 5.0
+  },
+  "odia_fish_curry": {
+    "calories": 140,
+    "protein": 18.0,
+    "carbs": 4.0,
+    "fat": 6.0
+  },
+  "paneer_dish": {
+    "calories": 180,
+    "protein": 11.0,
+    "carbs": 6.0,
+    "fat": 13.0
+  },
+  "pitha": {
+    "calories": 200,
+    "protein": 4.0,
+    "carbs": 38.0,
+    "fat": 4.0
+  },
+  "pizza": {
+    "calories": 266,
+    "protein": 11.0,
+    "carbs": 33.0,
+    "fat": 10.0
+  },
+  "poha": {
+    "calories": 130,
+    "protein": 2.5,
+    "carbs": 25.0,
+    "fat": 3.0
+  },
+  "puri": {
+    "calories": 200,
+    "protein": 4.0,
+    "carbs": 26.0,
+    "fat": 9.0
+  },
+  "rasgulla": {
+    "calories": 186,
+    "protein": 4.0,
+    "carbs": 40.0,
+    "fat": 1.0
+  },
+  "rice": {
+    "calories": 130,
+    "protein": 2.7,
+    "carbs": 28.0,
+    "fat": 0.3
+  },
+  "sambhar": {
+    "calories": 60,
+    "protein": 3.0,
+    "carbs": 9.0,
+    "fat": 1.5
+  },
+  "shawarma": {
+    "calories": 280,
+    "protein": 18.0,
+    "carbs": 25.0,
+    "fat": 11.0
+  },
+  "upma": {
+    "calories": 150,
+    "protein": 4.0,
+    "carbs": 24.0,
+    "fat": 5.0
+  },
+  "veg_manchurian": {
+    "calories": 120,
+    "protein": 4.0,
+    "carbs": 16.0,
+    "fat": 5.0
+  },
+  "aloo_matar": {
+    "calories": 150,
+    "protein": 5.0,
+    "carbs": 20.0,
+    "fat": 5.0
+  }
+}
