@@ -1,4 +1,4 @@
-[![Deployment](https://img.shields.io/badge/Live-Demo-success)](https://nutri-ai-full.vercel.app/)
+Live Demo of NutriAI : [![Deployment](https://img.shields.io/badge/Live-Demo-success)](https://nutri-ai-full.vercel.app/)
 
 # NutriAI — AI-Powered Food Recognition for College Mess
 
