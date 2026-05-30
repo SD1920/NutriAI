@@ -1,3 +1,5 @@
+[![Deployment](https://img.shields.io/badge/Live-Demo-success)](https://nutri-ai-full.vercel.app/)
+
 # NutriAI — AI-Powered Food Recognition for College Mess
 
 [![Model](https://img.shields.io/badge/Model-ConvNeXt--Tiny-blue)](https://arxiv.org/abs/2201.03545)
@@ -19,7 +21,7 @@ KIIT students photograph their mess (cafeteria) food → the model identifies th
 📸 Photo → ConvNeXt-Tiny → Dal Fry (78.4%) → 131 kcal | 7.8g protein | 18.2g carbs
 ```
 
-The full app (built by a 4-person team) includes a React Native frontend, Node.js auth, and a FastAPI backend with LangChain meal planning and RAG-based nutrition Q&A. My scope was the food classifier and inference API.
+The full app (built by a 4-person team) includes a React Native frontend, Node.js auth, and a FastAPI backend with LangChain meal planning and RAG-based nutrition Q&A. My scope was the food classifier[...]
 
 ---
 
@@ -107,12 +109,12 @@ criterion = CrossEntropyLoss(weight=class_weights, label_smoothing=0.1)
 | **Total** | **~2,200** | 22 classes, 70/15/15 train/val/test split |
 
 ### The Domain Gap Problem
-This was the biggest real-world challenge. A model trained only on clean scraped internet images performs poorly on actual mess photos — different lighting (fluorescent), different presentation (steel thalis, mixed dishes), different angles (overhead phone shots).
+This was the biggest real-world challenge. A model trained only on clean scraped internet images performs poorly on actual mess photos — different lighting (fluorescent), different presentation (ste[...]
 
 **Fix:** Self-collected KIIT mess photos directly in training. Even 10–15 images per class from the real environment dramatically improved inference accuracy on live photos.
 
 ### Unique Classes (not in any public dataset)
-`ghuguni`, `fish_masala`, `dahibara`, `pitha`, `odia_fish_curry` — Odia cuisine. No Kaggle equivalent exists. Collected by photographing the KIIT mess daily and scraping Instagram hashtags (#odishafood, #pakhala, #odiacuisine).
+`ghuguni`, `fish_masala`, `dahibara`, `pitha`, `odia_fish_curry` — Odia cuisine. No Kaggle equivalent exists. Collected by photographing the KIIT mess daily and scraping Instagram hashtags (#odishaf[...]
 
 ---
 
